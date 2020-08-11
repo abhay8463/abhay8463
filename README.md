@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Mental Health Messiah!][twitterMHM]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Develop projects that can help someone. 
-- 🎮 Fun fact: I love to watch and play cricket
+- ⚡ Fun fact: I love to watch and play cricket
 
 ### Connect with me:
 
