@@ -60,7 +60,7 @@
 [twitterMHM]: https://twitter.com/HealthMessiah
 [twitter]: https://twitter.com/GuptaAbhay8463
 [youtube]: https://www.youtube.com/channel/UCFr0z4ySioVCX3-icw2Rvtg
-[instagram]: https://www.instagram.com/jayjhaveri1906/
+[instagram]: https://www.instagram.com/abhay.gupta8463/
 [linkedin]: https://www.linkedin.com/in/abhay-gupta-414017195/
 <!--[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
