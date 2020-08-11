@@ -55,7 +55,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img align="left" alt="abhay8463's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhay8463&show_icons=true&hide_border=true" />
+<img align="left" alt="abhay8463's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhay8463&show_icons=true&hide_border=true&theme= tokyonight" />
 
 [steam]: https://steamcommunity.com/id/Nickfury8463/
 <!--[website]: https://codeSTACKr.com-->
