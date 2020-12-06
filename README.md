@@ -56,7 +56,7 @@
 
 ---
 <img align="left" alt="abhay8463's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhay8463&show_icons=true&hide_border=true&theme=tokyonight" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhay8463)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [steam]: https://steamcommunity.com/id/Nickfury8463/
 <!--[website]: https://codeSTACKr.com-->
