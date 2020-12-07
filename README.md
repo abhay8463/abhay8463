@@ -1,4 +1,5 @@
 ### Hi there, I'm Abhay 👋
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Student, Developer, Cricket Lover!
 - 🔭 I’m currently working on [Mental Health Messiah!][twitterMHM]
