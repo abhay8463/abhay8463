@@ -55,6 +55,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay8463&layout=compact&hide=html" alt="abhay8463" /></p>
 <img align="left" alt="abhay8463's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhay8463&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
