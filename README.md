@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="260px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
 ## I'm a Student, Developer, Cricket Lover!
-- 🔭 I’m currently working on [Mental Health Messiah!][twitterMHM]
+- 🔭 I’m currently working on [Divya Drishti!][twitterMHM]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Develop projects that can help someone. 
 - ⚡ Fun fact: I love to watch and play cricket
@@ -77,7 +77,7 @@
 
 [steam]: https://steamcommunity.com/id/Nickfury8463/
 <!--[website]: https://codeSTACKr.com-->
-[twitterMHM]: https://twitter.com/HealthMessiah
+[twitterMHM]: https://github.com/JayJhaveri1906/Divya-Drishti
 [twitter]: https://twitter.com/GuptaAbhay8463
 [youtube]: https://www.youtube.com/channel/UCFr0z4ySioVCX3-icw2Rvtg
 [instagram]: https://www.instagram.com/abhay.gupta8463/
