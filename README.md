@@ -71,8 +71,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay8463&theme=monokai)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay8463&langs_count=10&theme=tokyonight&layout=compact" alt="abhay8463" /></p>
 <img align="right" alt="abhay8463's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhay8463&show_icons=true&hide_border=true&theme=tokyonight" />
+
 
 
 [steam]: https://steamcommunity.com/id/Nickfury8463/
