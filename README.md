@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="260px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
 ## I'm a Student, Developer, Cricket Lover!
-- 🔭 I’m currently working on [Divya Drishti!][twitterMHM]
+- 🔭 I’m currently working on [AatmaNirbhar Sanchar!][twitterMHM]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Develop projects that can help someone. 
 - ⚡ Fun fact: I love to watch and play cricket
@@ -59,8 +59,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Covid MentAid - A Twitter Bot for Sentimental Analysis of Covid19 Tweets.](https://www.youtube.com/watch?v=c_A3PlL_CD4)
 - [Speech Emotion Recognition using ML and DL](https://www.youtube.com/watch?v=jYl1fA78tTw)
+- [Covid MentAid - A Twitter Bot for Sentimental Analysis of Covid19 Tweets.](https://www.youtube.com/watch?v=c_A3PlL_CD4)
+- [Divya-Drishti: An Independent Aid for the Visually Impaired](https://www.youtube.com/watch?v=lRjCKhczHtY&t=3s)
 <!-- YOUTUBE:END -->
 
 ---
@@ -79,7 +80,7 @@
 
 [steam]: https://steamcommunity.com/id/Nickfury8463/
 <!--[website]: https://codeSTACKr.com-->
-[twitterMHM]: https://github.com/JayJhaveri1906/Divya-Drishti
+[twitterMHM]: https://github.com/BE-Project-VESIT-AatmaSanchar
 [twitter]: https://twitter.com/GuptaAbhay8463
 [youtube]: https://www.youtube.com/channel/UCFr0z4ySioVCX3-icw2Rvtg
 [instagram]: https://www.instagram.com/abhay.gupta8463/
