@@ -62,6 +62,7 @@
 - [Speech Emotion Recognition using ML and DL](https://www.youtube.com/watch?v=jYl1fA78tTw)
 - [Covid MentAid - A Twitter Bot for Sentimental Analysis of Covid19 Tweets.](https://www.youtube.com/watch?v=c_A3PlL_CD4)
 - [Divya-Drishti: An Independent Aid for the Visually Impaired](https://www.youtube.com/watch?v=lRjCKhczHtY&t=3s)
+- [AatmaNirbhar Sanchar : Secured Communications App](https://youtu.be/CyNPfndji-U)
 <!-- YOUTUBE:END -->
 
 ---
